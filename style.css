@@ -30,7 +30,7 @@ body{
     align-items: right;
 }
 
-.con-div > a:hover{
+.con-div >a:hover{
     background-color: black;
     color: white;
     
