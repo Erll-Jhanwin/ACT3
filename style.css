@@ -21,7 +21,7 @@ body{
     padding: 30px;
 }
 
-.con-div > a{
+.con-div > button{
     background-color: black;
     color: white;
     border: none;
@@ -32,7 +32,7 @@ body{
     align-items: right;
 }
 
-.con-div >a:hover{
+.con-div >button:hover{
     background-color: black;
     color: white;
     
